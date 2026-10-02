@@ -65,6 +65,11 @@ _RISK_PATTERNS = [
     r"\bkyc\b",
     r"\bblock(ed)?\b",
     r"\bsuspend(ed)?\b",
+    r"\bdisconnect(ed|ion)?\b",
+    r"\bexpir(e|ed|es|y)\b",
+    r"\b(immediately|urgent(ly)?|right now|today only)\b",
+    r"\b(won|winner|lottery|prize|reward|cashback|refund)\b",
+    r"\b(pin|password|cvv|aadhaar|pan card)\b",
 ]
 
 
